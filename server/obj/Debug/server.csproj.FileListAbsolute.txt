@@ -1,0 +1,7 @@
+E:\Andrea\Desktop\socket\lv3\server\server\bin\Debug\server.exe.config
+E:\Andrea\Desktop\socket\lv3\server\server\bin\Debug\server.exe
+E:\Andrea\Desktop\socket\lv3\server\server\bin\Debug\server.pdb
+E:\Andrea\Desktop\socket\lv3\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+E:\Andrea\Desktop\socket\lv3\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+E:\Andrea\Desktop\socket\lv3\server\server\obj\Debug\server.exe
+E:\Andrea\Desktop\socket\lv3\server\server\obj\Debug\server.pdb
