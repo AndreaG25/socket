@@ -1,0 +1,17 @@
+#Codici
+'1' : 'Tavolo creato correttamente',
+'2' : 'Unito al tavolo correttamente',
+'3' : 'Il secondo giocatore si è collegato, la partita può iniziare',
+'201' : 'Bianco, fai la prima mossa',
+'202' : 'mossa bianco + tocca a nero',
+'203' : 'mossa nero + tocca a bianco',
+'205' : 'mossa + scacco matto',
+'207' : 'pareggio per ripetizione + mossa',
+'208' : 'pareggio per materiale insufficiente + mossa',
+'209' : 'stallo',
+'210' : 'Resa'
+
+#Formati 
+-code
+-code:payload
+-codeMatch:code:move
