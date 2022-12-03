@@ -253,7 +253,7 @@ while run:
         WIN.blit(wallpaper_img, (0, 0))
         WIN.blit(agchess_img, (158, 0))
         if play_button.press(WIN):
-            sendPlayMsg()
+            threading.Thread(target=sendPlayMsg, args=[]).start()
         elif about_button.press(WIN):
             webbrowser.open('https://github.com/AndreaG25/socket')
         elif exit_button.press(WIN):
