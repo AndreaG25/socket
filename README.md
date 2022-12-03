@@ -3,8 +3,8 @@
 AGCHESS is a simple app, developed by AndreaG25 which allow to play chess using the sockets
 
 Developed using:
-- C# 
-- Python
+- C# (.Net framework)
+- Python (pygame, python-chess)
 - ✨Magic ✨
 
 ## Installation
